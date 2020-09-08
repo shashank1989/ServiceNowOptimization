@@ -1,0 +1,15 @@
+Manual to use CodeBot
+
+Please open below link
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=3f27b35a-6218-4886-8c97-022ecce13d9c&serviceInstanceID=54d74100-f664-4ebb-8b06-bb7705aca4d2
+Deployment IBM Cloud
+
+
+This Model will classify Service request portfolio based on the context  and identify the ticket  belongs to which team and direct user to contact them directly
+
+Payroll Team
+Help Desk Team
+Product Development Team
+Operation Team 
+Infra Team 
