@@ -13,3 +13,14 @@ Help Desk Team
 Product Development Team
 Operation Team 
 Infra Team 
+
+
+Example Question That we can ask 
+
+Water is leaking on my floor who can help 
+
+Printer is not working whom to contact 
+
+I am not able to login whom i need to contact 
+
+Can you help me with form c download or payrolls
